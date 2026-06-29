@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Barcode Tag OCR — POC
 
 Upload a photo of one or more wrapped barcode tags (at any angle/rotation) →
@@ -74,3 +75,6 @@ streamlit run app.py
 - If two tags sit very close together, the detector may merge or miss one.
 - `min_confidence` (default 0.3) is the main knob if you're getting too few
   or too many results.
+=======
+# Barcode_extractor
+>>>>>>> e4136cceaa1e75e2675c4e3f8faacee037cb5725
